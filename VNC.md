@@ -1,4 +1,3 @@
-Certainly! Here's the document formatted in Markdown for use on Medium and GitHub:
 
 ```markdown
 # Setting up VNC Server on Oracle Linux 8
