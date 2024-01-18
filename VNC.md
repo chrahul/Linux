@@ -1,5 +1,5 @@
 
-```markdown
+
 # Setting up VNC Server on Oracle Linux 8
 
 ## Step 1: Setup VNC Server
@@ -107,4 +107,4 @@ vncviewer localhost:1
 These steps help set up a VNC server on Oracle Linux 8 for remote graphical access. Adjustments may be needed based on specific use cases or system configurations.
 ```
 
-Feel free to copy and paste this Markdown code into your Medium or GitHub document.
+You can copy and paste this Markdown code into your GitHub repository or Markdown editor.
