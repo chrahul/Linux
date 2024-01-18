@@ -111,9 +111,5 @@ Connect Using Putty:
 
 
 
-![image](https://github.com/chrahul/Linux/assets/14847377/be8269d1-d77f-4e61-8cd3-e86bac4e13ba)
 
-
-
-![image](https://github.com/chrahul/Linux/assets/14847377/b139633d-dfaa-4e22-8ebc-f99ab08ac88c)
-
+![image](https://github.com/chrahul/Linux/assets/14847377/c31c78ac-bd96-4e2e-92d5-467d73f5f985)
