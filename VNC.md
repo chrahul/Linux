@@ -104,5 +104,10 @@ vncviewer localhost:1
   journalctl -xe | grep vncserver
   ```
 
-These steps help set up a VNC server on Oracle Linux 8 for remote graphical access. Adjustments may be needed based on specific use cases or system configurations.
+These steps help set up a VNC server on Oracle Linux 8 for remote graphical access. 
+
+![image](https://github.com/chrahul/Linux/assets/14847377/c31c78ac-bd96-4e2e-92d5-467d73f5f985)
+
+
+Adjustments may be needed based on specific use cases or system configurations.
 ```
