@@ -106,8 +106,12 @@ vncviewer localhost:1
 
 These steps help set up a VNC server on Oracle Linux 8 for remote graphical access. 
 
+Putty Connect:
+
 ![image](https://github.com/chrahul/Linux/assets/14847377/c31c78ac-bd96-4e2e-92d5-467d73f5f985)
 
+
+![image](https://github.com/chrahul/Linux/assets/14847377/fb138748-18a0-46ac-a6f0-959bff1e7c44)
 
 Adjustments may be needed based on specific use cases or system configurations.
 ```
